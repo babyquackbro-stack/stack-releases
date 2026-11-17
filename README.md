@@ -8,7 +8,7 @@
 
 ### [⬇ Download Stack for Windows](https://github.com/babyquackbro-stack/stack-releases/releases/latest/download/Stack-Setup.exe)
 
-Version 1.9.0 · Windows 10 and 11 · free
+Version 1.10.0 · Windows 10 and 11 · free
 
 <br>
 
@@ -39,7 +39,7 @@ Switch it on in **Settings → Extras** and Stack becomes a logbook you turn the
 
 - **XP and levels** for the work you finish, and **ink** to spend in the shop on new inks, covers and pages.
 - **Seals, finds and achievements**, with a streak for school days in a row.
-- **Practice papers become boss fights** against the clock.
+- **Practice papers become boss fights** against the clock, and finish with a stick-figure fight: how it goes depends on your grade (score 100% for a special one).
 - Switch it off any time and normal Stack is exactly as it was.
 
 ## On your phone
