@@ -8,7 +8,7 @@
 
 ### [⬇ Download Stack for Windows](https://github.com/babyquackbro-stack/stack-releases/releases/latest/download/Stack-Setup.exe)
 
-Version 1.8.0 · Windows 10 and 11 · free
+Version 1.9.0 · Windows 10 and 11 · free
 
 <br>
 
