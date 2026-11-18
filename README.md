@@ -10,6 +10,10 @@
 
 Version 1.10.3 · Windows 10 and 11 · free
 
+### [⬇ Download Stack for Android](https://github.com/babyquackbro-stack/stack-releases/releases/latest/download/Stack-Android.apk)
+
+Android 7 or newer · free · brings in Teams homework and adds Home Screen widgets
+
 <br>
 
 </div>
@@ -42,9 +46,33 @@ Switch it on in **Settings → Extras** and Stack becomes a logbook you turn the
 - **Practice papers become boss fights** against the clock, and finish with a stick-figure fight: how it goes depends on your grade (score 100% for a special one).
 - Switch it off any time and normal Stack is exactly as it was.
 
-## On your phone
+## On Android: the Stack app
 
-Stack also works on iPhone and Android: open **[stack-planner-a0b8c.web.app](https://stack-planner-a0b8c.web.app)** and add it to your Home Screen. Sign in with the same account and your tasks match on every device.
+The Android app is Stack plus two things the website can't do on a phone: it brings in your **Teams homework** by itself, and it has **Home Screen widgets**.
+
+**Installing**
+1. On your phone, tap **Download Stack for Android** above. Your browser may warn that the file could be harmful; it's the Stack app, so tap **Download anyway**.
+2. Open the downloaded file. Android asks to allow installs from your browser: tap **Settings**, switch on **Allow from this source**, go back and tap **Install**.
+3. If Play Protect says it doesn't recognise the app, tap **More details**, then **Install anyway**. (It's new and isn't on the Play Store yet.)
+4. Open Stack and sign in with your Stack account, or make one. If you already use Stack on a PC or the website, your tasks appear straight away.
+
+**Teams homework**
+1. Go to **Settings → Account → Teams** and switch on **Check Teams for homework**.
+2. Tap **Sign in…**. Teams opens full screen: sign in with your school account, open **Assignments**, then tap **Done** at the top.
+3. From then on, tap the **Teams** button (the one with the dot) whenever you like. Stack reads your Assignments in the background and adds new homework; things you've handed in get ticked off.
+4. If Teams ever asks you to sign in again, Stack opens the sign-in for you.
+
+**Widgets**
+1. Press and hold an empty space on your Home Screen and tap **Widgets**.
+2. Find **Stack** and drag a **small**, **medium** or **large** widget onto your Home Screen.
+3. They show the lesson you're in (and its room), or the next one, plus your top tasks; the large one also shows the rest of today. In Game mode they change to the Logbook look with your level, XP and ink.
+4. They update when your tasks change and at each lesson change, even with Stack closed. Open Stack once after installing so they have something to show.
+
+**Updating:** most updates arrive by themselves, because the app loads the latest Stack every time. Now and then a new app file is needed; download it from the button above and install it over the old one. Your tasks are kept.
+
+## On iPhone (and Android without the app)
+
+Open **[stack-planner-a0b8c.web.app](https://stack-planner-a0b8c.web.app)** and add it to your Home Screen. Sign in with the same account and your tasks match on every device.
 
 ## Privacy
 
